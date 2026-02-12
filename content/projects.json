@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": " BOOQU - E-Commerce User Experience design",
+    "role": "UI/UX Designer",
+    "description": "Redesign aplikasi e-commerce. Hasil: Meningkatkan konversi 25% melalui A/B testing dan perbaikan user flow pada halaman checkout.",
+    "tech": ["Figma", "Adobe XD", "User Research"],
+    "link": "https://www.figma.com/design/MeQcc9uHAYqXypCwZy8eYb/Booqu?node-id=11-11215&t=Oma4yrlv5r3u6VJY-0",
+    "image": "/Booqu.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Predictive Sales Analysis Dashboard",
+    "role": "Data Analyst",
+    "description": "Menganalisis data transaksi tahunan untuk memprediksi tren penjualan masa depan menggunakan Python dan visualisasi Tableau.",
+    "tech": ["Python", "Tableau", "SQL", "Excel"],
+    "link": "https://github.com/    your-data-link",
+    "image": "/images/data-project.png"
+  },
+  {
+    "id": "3",
+    "title": "Company Profile & Management System",
+    "role": "Web Developer",
+    "description": "Membangun website perusahaan yang responsif dengan fitur sistem manajemen konten internal menggunakan Next.js dan Tailwind CSS.",
+    "tech": ["Next.js", "TypeScript", "Tailwind", "Supabase"],
+    "link": "https://github.com/yzkielr",
+    "image": "/images/web-project.png"
+  }
+]
