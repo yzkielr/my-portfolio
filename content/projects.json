@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "title": " BOOQU - E-Commerce User Experience design",
+    "title": "BOOQU:Book E-Commerce",
     "role": "UI/UX Designer",
     "description": "Redesign aplikasi e-commerce. Hasil: Meningkatkan konversi 25% melalui A/B testing dan perbaikan user flow pada halaman checkout.",
     "tech": ["Figma", "Adobe XD", "User Research"],
@@ -10,20 +10,47 @@
   },
   {
     "id": "2",
-    "title": "Predictive Sales Analysis Dashboard",
-    "role": "Data Analyst",
-    "description": "Menganalisis data transaksi tahunan untuk memprediksi tren penjualan masa depan menggunakan Python dan visualisasi Tableau.",
-    "tech": ["Python", "Tableau", "SQL", "Excel"],
-    "link": "https://github.com/    your-data-link",
-    "image": "/images/data-project.png"
+    "title": "Solas: On-Chain Credit Union",
+    "role": "Web Developer",
+    "description": "SOLAS adalah protokol DeFi berbasis Solana yang mentransformasi sistem koperasi tradisional Indonesia menjadi ekosistem simpan-pinjam yang transparan, otomatis, dan bebas korupsi melalui infrastruktur blockchain.",
+    "tech": ["Blockchain", "Smart Contract", "Anchor", "Solana"],
+    "link": "https://github.com/yzkielr/SOLAS",
+    "image": "/Solas.png"
   },
   {
     "id": "3",
-    "title": "Company Profile & Management System",
-    "role": "Web Developer",
-    "description": "Membangun website perusahaan yang responsif dengan fitur sistem manajemen konten internal menggunakan Next.js dan Tailwind CSS.",
-    "tech": ["Next.js", "TypeScript", "Tailwind", "Supabase"],
+    "title": "Fraud Detection with Machine Learning (Clustering & Classification)",
+    "role": "ML Engineer",
+    "description": "Building a suspicious financial transaction detection system using Machine Learning techniques on a dataset of over 2,500 banking transactions.",
+    "tech": ["Clustering", "Classification", "Python", "Google Colab"],
     "link": "https://github.com/yzkielr",
-    "image": "/images/web-project.png"
+    "image": "/PCA.png"
+  },
+  {
+    "id": "4",
+    "title": "Masjid Nurul Ishlah Operating System & Donations",
+    "role": "UI/UX Designer",
+    "description": "Membangun Sistem Informasi Yang Mudahkan Warga Dalam Melakukan Donasi",
+    "tech": ["Figma", "User Experience", "User Research", "User interface"],
+    "link": "https://www.figma.com/design/A0nQ3Dgrw3M8eUpNdQ68RA/MustJeed?node-id=50-720&t=aqGqDutyUpahiqNy-0",
+    "image": "Masjid Nurul Ishlah.png"
+  },
+  {
+    "id": "5",
+    "title": "Mail Management",
+    "role": "UI/UX Designer",
+    "description": "Redesign aplikasi Gmail dengan menambahkan Prioritas pada email.",
+    "tech": ["Figma", "User Experience", "User Research", "User interface"],
+    "link": "https://www.figma.com/design/nAN0gd8AYEV4sauvat6iXL/Mail?node-id=0-1&p=f&t=02Wjt9MQlEMTuY2J-0",
+    "image": "/Mail.png"
+  },
+  {
+    "id": "6",
+    "title": "Growish",
+    "role": "UI/UX Designer",
+    "description": "Lorem ipsum dolor set.",
+    "tech": ["Figma", "Adobe XD", "User Research"],
+    "link": "https://www.figma.com/design/Aa0irgZAo6I6Hpaky6Vk7J/Untitled?node-id=0-1&p=f&t=dwxbS38bIfmFP5Z2-0",
+    "image": "/Growish.png"
   }
 ]

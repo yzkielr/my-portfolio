@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YZK Portfolio | UI/UX Designer & Data Analyst",
+  title: "Mi Portfolio | Hire Me Pls",
   description: "Portfolio profesional yang menjembatani desain antarmuka intuitif dengan analisis data yang mendalam.",
 };
 
